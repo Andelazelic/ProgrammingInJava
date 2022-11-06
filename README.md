@@ -1,2 +1,0 @@
-# ProgrammingInJava
-class exercises
